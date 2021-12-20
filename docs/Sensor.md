@@ -5,7 +5,7 @@ Um Feinstaub messen zu können, wird ein Sensor benötigt.
 Es gibt professionelle Lösungen, welche mehrere tausend Euro
 kosten. 
 Zudem gibt es Sensoren, welche mit wenigen
-Handgriffen und es nicht wenig Erfahrung
+Handgriffen und etwas Erfahrung
 mit elektronischen Bausätzen für rund 50 Euro
 zusammen gebaut werden können.
 
