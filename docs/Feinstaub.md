@@ -14,3 +14,5 @@ Als Luftschadstoff wirkt sich Feinstaub negativ auf die Gesundheit aus,
 so kausal auf die Sterblichkeit, Herz-Kreislauf-Erkrankungen und 
 Krebserkrankungen sowie wahrscheinlich kausal auf Atemwegserkrankungen.
 
+Quelle und weitere Informationen: 
+https://de.wikipedia.org/wiki/Feinstaub
