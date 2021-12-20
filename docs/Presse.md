@@ -2,7 +2,10 @@
 
 Berichte über die Belastung durch Feinstaub in Stockach.
 
-
+* Wochenblatt, 16. Dezember 2021:
+  
+  [**Messungen am Nellenburger-Hang sollen 
+  kommen**](https://www.wochenblatt.net/heute/nachrichten/article/messungen-am-nellenburger-hang-sollen-kommen/)
 * Südkurier, 16. Dezember 2021: 
   
   [**Stockach Alu erregt weiter die Gemüter: Was Anwohner und Räte wollen und was eigentlich wo auf dem Gelände in die Luft 
