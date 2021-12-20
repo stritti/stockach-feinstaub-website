@@ -10,4 +10,4 @@ selbst damit begonnen Messwerte der Feinstaubbelastung aufzuzeichnen:
 * PM10: Feinstaub mit aerodynamischer Durchmesser weniger als 10 Mikrometer (µm)
 * PM2.5: Feinstaub mit aerodynamischer Durchmesser weniger als 2,5 Mikrometer (µm)
 
- [https://de.m.wikipedia.org/wiki/Feinstaub](Feinstaub)
+ (https://de.m.wikipedia.org/wiki/Feinstaub)
