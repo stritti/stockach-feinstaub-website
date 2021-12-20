@@ -1,0 +1,17 @@
+{
+  "name": "stockach-feinstaub-website",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Stephan Strittmatter",
+  "license": "MIT",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.29"
+  }
+}
