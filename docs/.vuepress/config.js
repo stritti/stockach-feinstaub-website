@@ -10,9 +10,10 @@ module.exports = {
     themeConfig: {
       logo: 'images/feinstaub-stockach.png',
       navbar: [
-        { text: 'Mitmachen', link: '/mitmachen.md'},
+        { text: 'Mitmachen', link: '/mitmachen.md' },
 
-        { text: 'Presse', link: '/presse.md' }
+        { text: 'Presse', link: '/presse.md' },
+        { text: 'Feinstaub-Karte', link: 'https://maps.sensor.community/#13/47.8459/8.9940' }
       ],
       sidebar: false,
       contributors: false,
