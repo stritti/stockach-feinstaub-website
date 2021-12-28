@@ -57,3 +57,5 @@ und Messtationen zu installieren.
 
 Seit der Bürgerversammlung im November 2021 wurde die Feinstaubbelastung in Stockach am Bodensee von
 Presse und Gemeinderat wieder in den Fokus gerrückt ([Pressemeldungen](/presse.html)).
+
+<twitter-timeline id="Feinstaub_Sto" :options="{ tweetLimit: '5' }" />
