@@ -39,12 +39,12 @@ der Gesundheit eingehalten werden sollen:
 
 ### PM10-Grenzwert
 
-* Jahresmittel = 20 µg/m³
+* Jahresmittel = 15 µg/m³ (seit 2021, war: 20 µg/m³)
 * Tagesmittel = 50 µg/m³
 
 ### PM2,5-Grenzwert
 
-* Jahresmittel = 10 µg/m³
+* Jahresmittel = 5 µg/m³ (seit 2021, war: 10 µg/m³)
 * Tagesmittel = 25 µg/m³
 
 ## Hintergrund
@@ -57,5 +57,9 @@ und Messtationen zu installieren.
 
 Seit der Bürgerversammlung im November 2021 wurde die Feinstaubbelastung in Stockach am Bodensee von
 Presse und Gemeinderat wieder in den Fokus gerrückt ([Pressemeldungen](/presse.html)).
+
+## Twitter-Feed
+
+Folgen sie unserem [Twitter-Account](https://twitter.com/Feinstaub_Sto), um bei erhöhter Feinstaubbelastung in Stockach gewarnt zu werden:
 
 <twitter-timeline id="Feinstaub_Sto" :options="{ tweetLimit: '5' }" />
