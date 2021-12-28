@@ -2,7 +2,9 @@
   <Layout>
     <template #page-bottom>
       <div class="theme-default-content">
-        &copy; 2021, Feinstaub in Stockach
+        &copy; 2021-2022, Feinstaub in Stockach |
+        <a href="/impressum.html">Impressum</a> |
+        <a href="/datenschutz.html">Datenschutz</a>
       </div>
     </template>
   </Layout>
