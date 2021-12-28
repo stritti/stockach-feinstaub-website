@@ -2,9 +2,12 @@
 
 ## Einleitung und Überblick
 
-Wir haben diese Datenschutzerklärung (Fassung 28.12.2021-) verfasst, um Ihnen gemäß der Vorgaben der
+Wir haben diese Datenschutzerklärung verfasst, um Ihnen gemäß der Vorgaben der
 [Datenschutz-Grundverordnung (EU) 2016/679](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311907746)
-und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche &#8211; und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) &#8211; verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
+und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz
+Daten) wir als Verantwortliche &#8211; und die von uns beauftragten Auftragsverarbeiter
+(z. B. Provider) &#8211; verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen
+Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
 
 **Kurz gesagt:** Wir informieren Sie umfassend über Daten, die wir über Sie verarbeiten.
 
@@ -65,18 +68,7 @@ Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informiere
 
 ## Kontaktdaten des Verantwortlichen
 
-Sollten Sie Fragen zum Datenschutz haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
-
-
-Max Mustermann
-
-Musterstraße 47, 78333 Stockach, Deutschland
-
-E-Mail: <a href="mailto:mail@musterfirma.de">mail@musterfirma.de</a>
-
-Telefon: <a href="tel:+49 4711 12345">+49 4711 12345</a>
-
-Impressum: <a href="/impressum.thml">Impressum</a>
+Sollten Sie Fragen zum Datenschutz haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person im [Impressum](/impressum.html).
 
 ## Rechte laut Datenschutz-Grundverordnung
 
@@ -117,9 +109,18 @@ Laut Artikel 13 DSGVO stehen Ihnen die folgenden Rechte zu, damit es zu einer fa
 
 **Kurz gesagt:** Sie haben Rechte &#8211; zögern Sie nicht, die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!
 
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die Datenschutzbehörde, deren Website Sie unter <a class="adsimple-311907746" href="https://www.dsb.gv.at/?tid=311907746" target="_blank" rel="noopener">https://www.dsb.gv.at/</a> finden. In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die <a class="adsimple-311907746" href="https://www.bfdi.bund.de" target="_blank" rel="noopener">Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)</a> wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt
+oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind,
+können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die
+Datenschutzbehörde, deren Website Sie unter
+[https://www.dsb.gv.at/](https://www.dsb.gv.at/?tid=311907746)
+finden. In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für
+nähere Informationen können Sie sich an die
+[Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)](https://www.bfdi.bund.de)
+wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
 
 ## Webhosting Einleitung
+
 <table border="1" cellpadding="15">
 <tbody>
 <tr>
@@ -165,18 +166,21 @@ Die Zwecke der Datenverarbeitung sind:
 1. Professionelles Hosting der Website und Absicherung des Betriebs
 2. zur Aufrechterhaltung der Betriebs- und IT-Sicherheit
 3. Anonyme Auswertung des Zugriffsverhaltens zur Verbesserung unseres Angebots
-  und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen
+   und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen
 
 ### Welche Daten werden verarbeitet?
 
 Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserver, das ist
 der Computer auf dem diese Webseite gespeichert ist, in der Regel automatisch Daten wie
 
-* die komplette Internetadresse (URL) der aufgerufenen Webseite (z. B. https://www.beispielwebsite.de/beispielunterseite.html?tid=311907746)
+* die komplette Internetadresse (URL) der aufgerufenen Webseite
+  (z. B. https://www.beispielwebsite.de/beispielunterseite.html?tid=311907746)
 * Browser und Browserversion (z. B. Chrome 87)
 * das verwendete Betriebssystem (z. B. Windows 10)
-* die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B. https://www.beispielquellsite.de/vondabinichgekommen.html/)
-* den Hostnamen und die IP-Adresse des Geräts von welchem aus zugegriffen wird (z. B. COMPUTERNAME und 194.23.43.121)
+* die Adresse (URL) der zuvor besuchten Seite (Referrer URL)
+  (z. B. https://www.beispielquellsite.de/vondabinichgekommen.html)
+* den Hostnamen und die IP-Adresse des Geräts von welchem aus zugegriffen wird
+  (z. B. COMPUTERNAME und 194.23.43.121)
 * Datum und Uhrzeit
 * in Dateien, den sogenannten Webserver-Logfiles
 
@@ -194,4 +198,4 @@ Zwischen uns und dem Hostingprovider besteht in der Regel ein Vertrag über die 
 
 Alle Texte sind urheberrechtlich geschützt.
 
-Quelle: Erstellt mit dem [Datenschutz Generator](https://www.adsimple.de/datenschutz-generator/") von AdSimple
+*Quelle: Erstellt mit dem [Datenschutz Generator](https://www.adsimple.de/datenschutz-generator/") von AdSimple*
