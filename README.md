@@ -2,7 +2,7 @@
 
 Dieses Projekt erzeugt die Website: https://feinstaub-stockach.netlify.app/
 
-Genutzt wird [VuePress 2.0](https://v2.vuepress.vuejs.org/.
+Genutzt wird [VuePress 2.0](https://v2.vuepress.vuejs.org/).
 
 ## Entwicklung
 
