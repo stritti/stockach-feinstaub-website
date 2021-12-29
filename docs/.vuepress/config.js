@@ -25,7 +25,13 @@ module.exports = {
       { text: 'Hintergrund', link: '/hintergrund.md' },
 
       { text: 'Presse', link: '/presse.md' },
-      { text: 'Feinstaub-Karte', link: 'https://maps.sensor.community/#13/47.8459/8.9940' }
+      {
+        text: 'Messdaten',
+        children: [
+          { text: 'Dashboard', link: '/messungen.md' },
+          { text: 'Feinstaub-Karte', link: 'https://maps.sensor.community/#13/47.8459/8.9940' }
+        ]
+      }
     ],
     sidebar: false,
     contributors: false,
