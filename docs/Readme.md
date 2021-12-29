@@ -79,4 +79,4 @@ Presse und Gemeinderat wieder in den Fokus gerrückt ([Pressemeldungen](/presse.
 
 Folgen sie unserem [Twitter-Account](https://twitter.com/Feinstaub_Sto), um bei erhöhter Feinstaubbelastung in Stockach gewarnt zu werden:
 
-<twitter-timeline id="Feinstaub_Sto" :options="{ tweetLimit: '5' }" />
+<twitter-timeline id="Feinstaub_Sto" :options="{ tweetLimit: '5', dnt: true }" />
