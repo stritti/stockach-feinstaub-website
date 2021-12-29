@@ -30,8 +30,6 @@ export default {
         : this.addPlatformScript("//platform.twitter.com/widgets.js")
     )
       .then((twttr) => {
-        console.log(twttr);
-
         if (
           document.getElementsByTagName("HTML")[0].className.indexOf("dark") >
           -1
