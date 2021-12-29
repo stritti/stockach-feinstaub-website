@@ -1,5 +1,5 @@
 <template>
-  <div id="twitter-timeline"></div>
+  <div class="twitter-timeline"></div>
 </template>
 
 <script>
@@ -31,6 +31,13 @@ export default {
     )
       .then((twttr) => {
         console.log(twttr);
+
+        if (
+          document.getElementsByTagName("HTML")[0].className.indexOf("dark") >
+          -1
+        ) {
+          this.options.theme = "dark";
+        }
         this.embedComponent(twttr, params, this.$el, this.options);
       })
       .then((data) => {
@@ -77,7 +84,7 @@ export default {
 </script>
 
 <style>
-#twitter-timeline {
+.twitter-timeline {
   max-width: 400px;
   margin: 0 auto;
 }
