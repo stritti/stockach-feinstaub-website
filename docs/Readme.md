@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Feinstaub in Stockach
-heroImage: /images/feinstaub-in-stockach.jpeg
+heroImage: /images/feinstaub-in-stockach.jpg
 tagline: Private Initiative zur Verbesserung der Luftqualität in Stockach
 
 actions:
