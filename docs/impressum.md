@@ -6,7 +6,7 @@ Agnes Thümmel<br>
 Geschwister-Scholl-Straße 20<br>
 78333 Stockach
 
-E-Mail: <a href="mailto:luftinfo.stockach&commat;domain&period;de"> luftinfo.stockach&commat;gmail&period;com</a><br>
+E-Mail: <a href="mailto:luftinfo.stockach&commat;gmail&period;de"> luftinfo.stockach&commat;gmail&period;com</a><br>
 Tel-Nr.: +49 151 17608056
 
 ## Haftungsausschluss (Disclaimer)
