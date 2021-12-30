@@ -27,7 +27,7 @@ footerHtml: true
 ---
 # Feinstaub in Stockach
 
-Die Belastung durch Feinstaub in Stockach ist seit Jahren hoch und übersteigt die von der WHO empfohlenen Grenzen.
+Die Belastung durch Feinstaub in Stockach ist seit Jahren hoch.
 
 Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn
 Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger
