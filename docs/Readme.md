@@ -72,7 +72,7 @@ festgelegt hat:
 Bereits seit Jahren haben in Stockach am Bodensee Anwohner:innen darauf hingewiesen,
 dass es eine erhöhte Feinstaubbelastung in Stockach und Umgebung gibt.
 
-Seit 2021 haben Anwohner:innen verstärkt damit begonnen selbst Messwerte der Feinstaubbelastung aufzuzeichnen
+Seit 2020 haben Anwohner:innen verstärkt damit begonnen selbst Messwerte der Feinstaubbelastung aufzuzeichnen
 und Messtationen zu installieren.
 
 Seit der Bürgerversammlung im November 2021 wurde die Feinstaubbelastung in Stockach am Bodensee von
