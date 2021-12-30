@@ -1,6 +1,19 @@
 # Hintergrund und Fakten zu Feinstaub
 
-Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger als 2,5 µm (PM2,5) stellen ein erhöhtes Risiko dar, weil sie tiefer in die Atemwege eindringen können.
+Bereits seit Jahren haben in Stockach am Bodensee Anwohner:innen darauf hingewiesen,
+dass es eine erhöhte Feinstaubbelastung in Stockach und Umgebung gibt.
+
+Seit 2020 haben Anwohner:innen verstärkt damit begonnen selbst Messwerte der Feinstaubbelastung aufzuzeichnen
+und Messtationen zu installieren.
+
+Seit der Bürgerversammlung im November 2021 wurde die Feinstaubbelastung in Stockach am Bodensee von
+Presse und Gemeinderat wieder in den Fokus gerrückt ([Pressemeldungen](/presse.html)).
+
+
+### Definition Feinstaub
+Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger als 2.5 µm (⁠PM2.5) stellen ein erhöhtes Risiko dar, weil sie tiefer in die Atemwege eindringen können.
+*Quelle: [Umweltbundesamt](https://www.umweltbundesamt.de/themen/luft/luftschadstoffe-im-ueberblick/feinstaub)*
+
 
 ## Weiterführende Informationen
 
