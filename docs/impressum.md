@@ -2,11 +2,12 @@
 
 Angaben gemäß § 5 TMG
 
-TBD
+Agnes Thümmel<br>
+Geschwister-Scholl-Straße 20<br>
+78333 Stockach
 
-Kontakt
-
-E-Mail: TBD
+E-Mail: luftinfo.stockach@gmail.com<br>
+Tel-Nr.: +49 151 17608056
 
 ## Haftungsausschluss (Disclaimer)
 
