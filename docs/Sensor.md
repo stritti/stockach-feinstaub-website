@@ -10,9 +10,9 @@ mit elektronischen Baus채tzen f체r rund 50 Euro selbst zusammen gebaut werden k�
 ## Sensor selbst bauen
 
 Baue deinen DIY-Sensor und werde ein Teil des weltweiten OpenData & CivicTech Netzwerks. Mit
-*airRohr* kannst du die Luftverschmutzung selbst messen.
+[airRohr](https://sensor.community/de/sensors/airrohr/) kannst du die Luftverschmutzung selbst messen.
 
-Sensor.community hat hierf체r bereits alles in einer ausf체hrlichen
+[Sensor.community](https://sensor.community/de/) hat hierf체r bereits alles in einer ausf체hrlichen
 [Anleitung](https://sensor.community/de/sensors/airrohr/) zusammen gefasst.
 
 Mit diesem *airRohr* kann die Feinstaub-Belastung PM10 und PM2.5 gemessen und 체ber WLAN
