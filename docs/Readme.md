@@ -25,16 +25,17 @@ footer: <div>
         <a href="/datenschutz.html">Datenschutz</a></div>
 footerHtml: true
 ---
-# Was ist Feinstaub?
+
+# Luftqualität in Stockach
+Seit Anfang 2020 haben wir am Nellenburger Hang eigene Feinstaubsensoren im Einsatz. Diese Sensoren zeigen Werte an, die phasenweise besorgniserregend hoch sind.
+Beispielsweise wurde am 19. November 2021 im Bereich des Nellenburger Hangs ein Höchststand mit 400 Mikrogramm pro Kubikmeter bei PM10 und 130 Mikrogramm bei PM2.5 gemessen. 
+Dies wurde in der [Presse](/presse.html) bereits thematisiert.
+
+## Definition Feinstaub
 Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn
 Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger
 als 2.5 µm (⁠PM2.5) stellen ein erhöhtes Risiko dar, weil sie tiefer in die Atemwege eindringen können.<br>
 *Quelle: [Umweltbundesamt](https://www.umweltbundesamt.de/themen/luft/luftschadstoffe-im-ueberblick/feinstaub)*
-
-# Feinstaub in Stockach
-Seit Anfang 2020 haben wir am Nellenburger Hang eigene Feinstaubsensoren im Einsatz. Diese Sensoren zeigen Werte an, die phasenweise besorgniserregend hoch sind.
-Beispielsweise wurde am 19. November 2021 im Bereich des Nellenburger Hangs ein Höchststand mit 400 Mikrogramm pro Kubikmeter bei PM10 und 130 Mikrogramm bei PM2.5 gemessen. 
-Dies wurde in der [Presse](/presse.html) bereits thematisiert.
 
 ## Aktuelle Feinstaub-Messungen
 
@@ -68,7 +69,7 @@ festgelegt hat:
 | **EU-Grenzwert** | 20  µg/m³ | 50 µg/m³ |
 
 
-## Twitter-Feed
+## Unser Twitter-Feed
 
 Folgen sie unserem [Twitter-Account](https://twitter.com/Feinstaub_Sto), um bei erhöhter Feinstaubbelastung in Stockach gewarnt zu werden:
 
