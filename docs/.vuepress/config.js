@@ -3,7 +3,7 @@ const { path } = require('@vuepress/utils')
 module.exports = {
   lang: 'de-DE',
   title: 'Feinstaub in Stockach',
-  description: '.',
+  description: 'Private Initiative zur Verbesserung der Luftqualität in Stockach',
   repo: 'https://github.com/stritti/stockach-feinstaub-website',
   head: [
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
