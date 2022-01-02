@@ -29,7 +29,12 @@ Im folgenden werden die gesundheitlichen Auswirkungen laut der offiziellen Webse
 *[Umweltbundesamt](https://www.umweltbundesamt.de/service/uba-fragen/warum-ist-feinstaub-schaedlich-fuer-den-menschen)*
 
 
-## Weiterführende Informationen
+### Wissenschaftliche Publikationen über gesundheitlichen Auswirkungen von Feinstaub
+* Associations Between Long‐Term Fine Particulate Matter Exposure and Mortality in Heart Failure Patients (2020): [Journal of the American Heart Association](https://www.ahajournals.org/doi/10.1161/JAHA.119.012517)
+* Ambient Particulate Air Pollution and Daily Mortality in 652 Cities (2019) : [Journal of the American Heart Association](https://www.ahajournals.org/doi/10.1161/JAHA.119.012517)
+* Pollution and the Heart (2021) : [The New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMra2030281)
+
+### Weiterführende Informationen
 
 * Weltgesundheitsorganisation (WHO): [Globale Luftgüteleitlinien der WHO: Feinstaubpartikel (PM2,5 und PM10), Ozon, Stickstoffdioxid, Schwefeldioxid und Kohlenmonoxid. Zusammenfassung (2021)](https://www.euro.who.int/de/health-topics/environment-and-health/air-quality/publications/2021/who-global-air-quality-guidelines-particulate-matter-pm2.5-and-pm10,-ozone,-nitrogen-dioxide,-sulfur-dioxide-and-carbon-monoxide-executive-summary-2021)
 * Umweltbundesamt: [Umweltbundesamt](https://www.umweltbundesamt.de/service/uba-fragen/warum-ist-feinstaub-schaedlich-fuer-den-menschen)
