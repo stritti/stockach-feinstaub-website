@@ -48,7 +48,7 @@ als 2.5 µm (⁠PM2.5) stellen ein erhöhtes Risiko dar, weil sie tiefer in die 
 Die Weltgesundheitsorganisation (WHO) legt folgende Feinstaub-Grenzwerte fest, die zum Schutz
 der Gesundheit eingehalten werden sollen, welche im
 [September 2021](https://www.euro.who.int/de/health-topics/environment-and-health/air-quality/publications/2021/who-global-air-quality-guidelines-particulate-matter-pm2.5-and-pm10,-ozone,-nitrogen-dioxide,-sulfur-dioxide-and-carbon-monoxide-executive-summary-2021)
-aktualisiert wurden. Im Vergleich dazu die Grenzwerte, welche die
+aktualisiert wurden. Beim Feinstaub sollte dabei laut der WHO die Langzeitbelastung mit kleinen Partikeln (PM2.5) bei höchstens 5 statt bisher 10 Mikrogramm pro Kubikmeter Luft liegen. Bei den etwas größeren Partikeln (PM10) empfiehlt sie nun 15 statt bisher 20 Mikrogramm. Im Vergleich dazu die Grenzwerte, welche die
 [Europäische Kommission](https://ec.europa.eu/environment/air/quality/standards.htm)
 festgelegt hat:
 
