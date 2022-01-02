@@ -28,8 +28,11 @@ footerHtml: true
 
 # Luftqualität in Stockach
 Seit Anfang 2020 haben wir am Nellenburger Hang eigene Feinstaubsensoren im Einsatz. Diese Sensoren zeigen Werte an, die phasenweise besorgniserregend hoch sind.
-Beispielsweise wurde am 19. November 2021 im Bereich des Nellenburger Hangs ein Höchststand mit 400 Mikrogramm pro Kubikmeter bei PM10 und 130 Mikrogramm bei PM2.5 gemessen. 
-Dies wurde in der [Presse](/presse.html) bereits thematisiert.
+Beispielsweise wurde am 19. November 2021 im Bereich des Nellenburger Hangs ein Höchststand mit [400 µg pro Kubikmeter bei PM10](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&from=1637276400000&to=1637362799000&var-chipID=esp8266-3016229&viewPanel=12) und [130 µg pro Kubikmeter bei PM2.5](https://api-rrd.madavi.de/grafana/d/GUaL5aZMz/pm-sensors?orgId=1&theme=light&from=1637276400000&to=1637362799000&var-chipID=esp8266-3016229&viewPanel=3) gemessen. 
+
+Die Feinstaubfracht geht üblicherweise mit einer übelriechenden grau-bläulichen Nebelschwade einher die - je nach Wetterlage - über der Stadt Stockach verweilen kann. Dieser Nebel ist vor allem am Nellenburger Hang gut sichtbar wie das Titelbild aufzeigt. Dabei handelt es sich keinesfalls um ein seltenen Anblick. Solche und ähnliche Beobachtungen können Anwohner:innen teilweise mehrmals in der Woche machen.
+
+Dieser Zustand ist aus unserer Sicht nicht hinnehmbar und wurde bereits in der [Presse](/presse.html) thematisiert.
 
 ## Definition Feinstaub
 Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn
