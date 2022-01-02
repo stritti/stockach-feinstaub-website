@@ -34,6 +34,8 @@ Die Feinstaubfracht geht üblicherweise mit einer übelriechenden grau-bläulich
 
 Dieser Zustand ist aus unserer Sicht nicht hinnehmbar und wurde bereits in der [Presse](/presse.html) thematisiert.
 
+Unser Ziel ist die Messung der Feinstaubkonzentration in Stockach und Umgebung durch eigene private Sensoren, um die Feinstaubbelastung zu analysieren, Entstehungsorte zu lokalisieren und Feinstaub-Hotspots zu ermitteln. Für dieses Vorhaben werden wir in der Stockacher Umgebung weitere Sensoren platzieren.
+
 ## Definition Feinstaub
 Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn
 Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger
