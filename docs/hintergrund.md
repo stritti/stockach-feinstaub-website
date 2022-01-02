@@ -28,6 +28,15 @@ Im folgenden werden die gesundheitlichen Auswirkungen laut der offiziellen Webse
 ***Die Weltgesundheitsorganisation (⁠WHO⁠) hat in Untersuchungen festgestellt, dass es keine Feinstaubkonzentration (bezogen auf PM10 und PM2.5) gibt, unterhalb derer eine schädigende Wirkung ausgeschlossen werden kann.*** *Die Feinstaubbelastung sollte also so gering wie möglich sein, um gesundheitsschädliche Effekte zu minimieren.* <br>
 *[Umweltbundesamt](https://www.umweltbundesamt.de/service/uba-fragen/warum-ist-feinstaub-schaedlich-fuer-den-menschen)*
 
+### WHO-Leitlininien zu Feinstaub (2021)
+
+Die Weltgesundheitsorganisation (WHO) legt folgende Empfehlungen für *[Feinstaub-Grenzwerte](https://www.euro.who.int/de/health-topics/environment-and-health/air-quality/publications/2021/who-global-air-quality-guidelines-particulate-matter-pm2.5-and-pm10,-ozone,-nitrogen-dioxide,-sulfur-dioxide-and-carbon-monoxide-executive-summary-2021)* fest, die zum Schutz der Gesundheit eingehalten werden sollen:
+
+|                  |     PM2,5 |     PM10 |
+| :--------------- | --------: | -------: |
+| **Jahresmittel**     |  5  µg/m³ | 15 µg/m³ |
+| **Tagesmittel**     | 15  µg/m³ | 45 µg/m³ |
+
 
 ### Wissenschaftliche Publikationen über gesundheitliche Auswirkungen von Feinstaub
 * Associations Between Long‐Term Fine Particulate Matter Exposure and Mortality in Heart Failure Patients (2020): [Journal of the American Heart Association](https://www.ahajournals.org/doi/10.1161/JAHA.119.012517)
