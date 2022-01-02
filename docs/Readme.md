@@ -36,6 +36,8 @@ Dieser Zustand ist aus unserer Sicht nicht hinnehmbar und wurde bereits in der [
 
 Unser Ziel ist die Messung der Feinstaubkonzentration in Stockach und Umgebung durch eigene private Sensoren, um die Feinstaubbelastung zu analysieren, Entstehungsorte zu lokalisieren und Feinstaub-Hotspots zu ermitteln. Für dieses Vorhaben werden wir in der Stockacher Umgebung weitere Sensoren platzieren.
 
+Die Bürger:innen erhalten mit unserem [Dashboard](/messungen.html) zudem die Möglichkeit, sich über die aktuellen Feinstaubwerte zu informieren.
+
 ## Definition Feinstaub
 Als Feinstaub bezeichnet man Partikel mit einem aerodynamischen Durchmesser von weniger als zehn
 Mikrometer (µm) (PM10). Besonders kleine Partikel mit einem aerodynamischen Durchmesser von weniger
