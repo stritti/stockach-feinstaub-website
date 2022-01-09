@@ -12,7 +12,7 @@ Es gibt folgende Möglichkeiten die Initiative zu unterstützen:
 - Sponsoring von Messsensoren (Unkosten pro Sensorensatz ca. 50 EUR)
 
 ### Wichtiger Hinweis
-Aufgrund von Lieferengpässen ist der [BME280 Sensor](https://nettigo.eu/products/sensor-community-kit-sds011-bme280-english-language) (Temperatur & Feuchtigkeit & Luftdruck) im vorgeflashten [Sensorenkit]( https://nettigo.eu/products/sensor-community-kit-sds011-bme280-english-language) **NICHT** verfügbar.
+Aufgrund von Lieferengpässen ist der BME280 Sensor (Temperatur & Feuchtigkeit & Luftdruck) im vorgeflashten [Sensorenkit]( https://nettigo.eu/products/sensor-community-kit-sds011-bme280-english-language) **NICHT** verfügbar.
 Es wird ein alternativer Sensor ohne Luftdruck-Messung angeboten. Die Messung des Luftdrucks ist aber ein wichtiger Wert bei der Auswertung der Daten.
 
 Daher rate ich den Bausatz einzeln zu kaufen:
