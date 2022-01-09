@@ -27,4 +27,4 @@ Empfohlener Tagesmittel der WHO: PM2.5 &le; 5  µg/m³ PM10 &le; 15 µg/m³
 Empfohlener Tagesmittel der WHO: PM2.5 &le; 5  µg/m³ PM10 &le; 15 µg/m³
 
 
-**Zurück zur [Startseite](https://www.luftinfo-stockach.de/)**
+**Zurück zur [Startseite](/)**
