@@ -20,7 +20,6 @@ Daher rate ich den Bausatz einzeln zu kaufen:
 - BME280 6-PIN, Temperatur & Feuchtigkeit & Luftdruck über [AliExpress](https://de.aliexpress.com/item/1005001395346259.html?spm=a2g0o.9042311.0.0.3cc44c4dcpvaHP)
 - SDS011 Feinstaub-Sensor über [AliExpress](https://de.aliexpress.com/item/33021900616.html?spm=a2g0o.9042311.0.0.3cc44c4dcpvaHP)
 - Wireless modul CH340/CP2102 NodeMcu V3 über [AliExpress](https://de.aliexpress.com/item/1005001817274659.html?spm=a2g0o.9042311.0.0.3cc44c4dcpvaHP)
-- Wireless modul CH340/CP2102 NodeMcu V3 über [AliExpress](https://de.aliexpress.com/item/1005001817274659.html?spm=a2g0o.9042311.0.0.3cc44c4dcpvaHP)
 - Kabel über [AliExpress](https://www.aliexpress.com/wholesale?groupsort=1&SortType=price_asc&SearchText=Dupont+Kabel+20cm+Buchse-Buchse)
 - USB-Kabel z.B.: flach 2m Micro-USB über [AliExpress]( https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200308040708&SearchText=micro+usb+flach+Kabel+2m)
 - Stromversorgung USB über [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200308040834&SearchText=single+micro+usb+eu+Stromversorgung+Netzteil) 
