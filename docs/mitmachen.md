@@ -27,9 +27,9 @@ Daher rate ich den Bausatz einzeln zu kaufen:
 - Flexibler Schlauch, Durchmesser 6 mm, Länge ca. 20cm z.B. über Baumarkt oder [Amazon](https://www.amazon.de/gp/product/B07FH7RRV8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - Witterungsschutz, Marley Silent HT Bogen DN 75 87° z.B. über [Bauhaus](https://www.bauhaus.info/ht-rohre/ht-bogen/p/13625028)
 
-Gerne unterstützen wir Sie beim Zusammenbau und der Installation. 
-
 Bitte rechnen Sie bei den Sensoren mit einer **aktuellen Lieferzeit von 3-4 Wochen**.
+
+Gerne unterstützen wir Sie auch beim Zusammenbau und der Installation. <br>
 
 ### Eigene Erfahrungen?
 
