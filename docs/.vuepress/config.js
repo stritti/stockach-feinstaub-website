@@ -2,7 +2,7 @@ const {path} = require('@vuepress/utils')
 
 module.exports = {
     lang: 'de-DE',
-    title: 'Feinstaub in Stockach',
+    title: 'Luftinfo Stockach',
     description: 'Private Initiative zur Verbesserung der Luftqualität in Stockach. Seit Anfang 2020 haben Bürger und Bürgerinnen damit begonnen Messtationen zu installieren und Messwerte der Feinstaubbelastung aufzuzeichnen. Dabei wurden sehr hohe periodisch wiederkehrende Feinstaubkonzentrationen festgestellt.',
     repo: 'https://github.com/stritti/stockach-feinstaub-website',
     head: [
