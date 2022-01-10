@@ -38,11 +38,7 @@ module.exports = {
     lastUpdated: false
   },
   plugins: [
-    [
-      '@vuepress/register-components',
-      {
-        componentsDir: path.resolve(__dirname, './components'),
-      },
-    ],
+    ['@vuepress/register-components', { componentsDir: path.resolve(__dirname, './components'), }],
+    ['seo', { /* options */ }]
   ],
 }
