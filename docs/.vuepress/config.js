@@ -14,7 +14,8 @@ module.exports = {
         ['link', {rel: "shortcut icon", href: "/favicon.ico"}],
         ['meta', {name: "msapplication-TileColor", content: "#3a0839"}],
         ['meta', {name: "msapplication-config", content: "/browserconfig.xml"}],
-        ['meta', {name: "theme-color", content: "#ffffff"}],
+        ['meta', { name: "theme-color", content: "#ffffff" }],
+        ['meta', { name: "google-site-verification", content:"sl01o3RMwhWoYogi1SqbIbg9WeO5w9XhaRrH6NDcf1w" }],
     ],
     theme: path.resolve(__dirname, './theme'),
 
