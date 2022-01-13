@@ -41,6 +41,6 @@ module.exports = {
     plugins: [
       ['@vuepress/register-components', { componentsDir: path.resolve(__dirname, './components'), }],
       ['seo', { /* options */ }],
-      ['@vuepress/plugin-google-analytics', { id: 'G-X1H96GTT6S' }],
+      //['@vuepress/plugin-google-analytics', { id: 'G-X1H96GTT6S' }],
     ]
 }
