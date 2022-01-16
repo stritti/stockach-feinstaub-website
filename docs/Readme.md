@@ -16,7 +16,7 @@ features:
   - title: Feinstaub belastet Stockach und Umgebung
     details: In Stockach am Bodensee haben Anwohner:innen bereits seit Jahren darauf hingewiesen, dass es eine erhöhte Feinstaubbelastung in Stockach und Umgebung gibt.
   - title: Private Initiative gegen Feinstaubbelastung
-    details: Auf privater Initiative haben 2020 Anwohner:innen selbst damit begonnen Messtationen zu installieren und Messwerte der Feinstaubbelastung aufzuzeichnen.
+    details: Auf privater Initiative haben 2020 Anwohner:innen selbst damit begonnen Messstationen zu installieren und Messwerte der Feinstaubbelastung aufzuzeichnen.
   - title: Feinstaub ist gesundheitsschädlich
     details: Erhöhte Werte der Feinstaubbelelastung sind laut WHO gesundheitsschädlich und die Quellen müssen identifiziert werden, um die Luftqualität zu verbessern.
 footer: <div>
