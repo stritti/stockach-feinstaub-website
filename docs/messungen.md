@@ -36,7 +36,7 @@ Empfohlener Tagesmittel der WHO: PM2.5 &le; 15  µg/m³ PM10 &le; 45 µg/m³<br>
 ---
 Empfohlener Tagesmittel der WHO: PM2.5 &le; 15  µg/m³ PM10 &le; 45 µg/m³<br>
 
-### [Sensor Hindelwangen](https://maps.sensor.community/#16/47.8591/9.0142)
+### [Sensor Galgenäcker](https://maps.sensor.community/#16/47.8591/9.0142)
 
 <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&amp;panelId=2&amp;var-node=69547" width="340" height="200" frameborder="0"></iframe>
 
