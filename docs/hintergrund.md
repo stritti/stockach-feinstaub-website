@@ -7,7 +7,7 @@ Seit 2020 haben Anwohner:innen verstärkt damit begonnen selbst Messwerte der Fe
 und Messtationen zu installieren.
 
 Seit der Bürgerversammlung im November 2021 wurde die Feinstaubbelastung in Stockach am Bodensee von
-Presse und Gemeinderat wieder in den Fokus gerrückt ([Pressemeldungen](/presse.html)).
+Presse und Gemeinderat wieder in den Fokus gerückt ([Pressemeldungen](/presse.html)).
 
 
 ### Definition Feinstaub
