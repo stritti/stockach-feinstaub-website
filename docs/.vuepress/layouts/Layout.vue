@@ -1,23 +1,20 @@
 <template>
-  <Layout>
+  <ParentLayout>
     <template #page-bottom>
       <div class="theme-default-content">
-        &copy; 2021-2022, Feinstaub in Stockach |
+        &copy; 2021-{{ currentYear }}, Feinstaub in Stockach |
         <a href="/impressum.html">Impressum</a> |
         <a href="/datenschutz.html">Datenschutz</a>
       </div>
     </template>
-  </Layout>
+  </ParentLayout>
 </template>
 
-<script>
-import Layout from "@vuepress/theme-default/lib/client/layouts/Layout.vue";
+<script setup>
+import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
+import { ref } from 'vue'
 
-export default {
-  components: {
-    Layout,
-  },
-};
+const currentYear = ref(new Date().getFullYear());
 </script>
 
 <style lang="css">

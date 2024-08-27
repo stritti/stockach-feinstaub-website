@@ -1,10 +1,14 @@
-const {path} = require('@vuepress/utils')
+import { viteBundler } from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { seoPlugin } from '@vuepress/plugin-seo'
+import { defineUserConfig } from 'vuepress'
+import { path } from 'vuepress/utils'
 
-module.exports = {
+export default defineUserConfig({
     lang: 'de-DE',
     title: 'Luftinfo Stockach',
     description: 'Private Initiative zur Verbesserung der Luftqualität in Stockach. Seit Anfang 2020 haben Bürger und Bürgerinnen damit begonnen Messtationen zu installieren und Messwerte der Feinstaubbelastung aufzuzeichnen. Dabei wurden sehr hohe periodisch wiederkehrende Feinstaubkonzentrationen festgestellt.',
-    repo: 'https://github.com/stritti/stockach-feinstaub-website',
     head: [
         ['link', {rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
         ['link', {rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png"}],
@@ -17,9 +21,12 @@ module.exports = {
         ['meta', { name: "theme-color", content: "#ffffff" }],
         ['meta', { name: "google-site-verification", content:"sl01o3RMwhWoYogi1SqbIbg9WeO5w9XhaRrH6NDcf1w" }],
     ],
-    theme: path.resolve(__dirname, './theme'),
+    bundler: viteBundler({
+      viteOptions: {},
+      vuePluginOptions: {},
+    }),
 
-    themeConfig: {
+    theme: defaultTheme({
         logo: 'images/feinstaub-stockach.png',
         navbar: [
             {text: 'Mitmachen', link: '/mitmachen.md'},
@@ -37,10 +44,9 @@ module.exports = {
         sidebar: false,
         contributors: false,
         lastUpdated: false
-    },
+    }),
     plugins: [
-      ['@vuepress/register-components', { componentsDir: path.resolve(__dirname, './components'), }],
-      ['seo', { /* options */ }],
-      //['@vuepress/plugin-google-analytics', { id: 'G-X1H96GTT6S' }],
+      registerComponentsPlugin({ componentsDir: path.resolve(__dirname, './components'), }),
+      seoPlugin({ hostname: "www.luftinfo-stockach.de"}),    
     ]
-}
+})

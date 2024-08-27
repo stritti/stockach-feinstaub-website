@@ -8,7 +8,7 @@ Es gibt folgende Möglichkeiten die Initiative zu unterstützen:
 
 - Messsensor aufstellen
 - Feinstaub-Messungen protokollieren
-- [Messsensoren zusammenbauen](/sensor.md) und aufstellen bzw. zur Verfügung stellen SIEHE [Wichtiger Hinweis](/mitmachen.html#wichtiger-hinweis)
+- [Messsensoren zusammenbauen](/Sensor.md) und aufstellen bzw. zur Verfügung stellen SIEHE [Wichtiger Hinweis](/mitmachen.html#wichtiger-hinweis)
 - Sponsoring von Messsensoren (Unkosten pro Sensorensatz ca. 50 EUR)
 
 ### Wichtiger Hinweis

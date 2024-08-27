@@ -15,3 +15,4 @@ empty.json
 
 .cache
 .temp
+docs/.vuepress/dist/
