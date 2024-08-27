@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <ParentLayout>
     <template #page-bottom>
       <div class="theme-default-content">
         &copy; 2021-2022, Feinstaub in Stockach |
@@ -7,17 +7,11 @@
         <a href="/datenschutz.html">Datenschutz</a>
       </div>
     </template>
-  </Layout>
+  </ParentLayout>
 </template>
 
-<script>
-import Layout from "@vuepress/theme-default/lib/client/layouts/Layout.vue";
-
-export default {
-  components: {
-    Layout,
-  },
-};
+<script setup>
+import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 </script>
 
 <style lang="css">
