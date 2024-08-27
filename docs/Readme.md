@@ -20,7 +20,7 @@ features:
   - title: Feinstaub ist gesundheitsschädlich
     details: Erhöhte Werte der Feinstaubbelelastung sind laut WHO gesundheitsschädlich und die Quellen müssen identifiziert werden, um die Luftqualität zu verbessern.
 footer: <div>
-        &copy; 2021-2022, Feinstaub in Stockach |
+        &copy; 2021-2024, Feinstaub in Stockach |
         <a href="/impressum.html">Impressum</a> |
         <a href="/datenschutz.html">Datenschutz</a></div>
 footerHtml: true
